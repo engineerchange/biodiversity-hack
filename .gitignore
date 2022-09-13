@@ -134,5 +134,6 @@ dmypy.json
 Desktop.ini
 
 # R
-.Rproj
+*.Rproj
 .RData
+data/
