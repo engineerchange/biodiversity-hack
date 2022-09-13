@@ -1,0 +1,363 @@
+common_name,scientific_name,scientific_name_url,species_grp,global_conservation_status_rank,state_conservation_status_rank,federal_legal_status,state_legal_status,statewide_occurrences,virginia_coastal_zone
+Mabee's Salamander,Ambystoma mabeei,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.101261,AMPHIBIANS,G4,S1S2,None,LT,18,Y
+Tiger Salamander,Ambystoma tigrinum,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.889738,AMPHIBIANS,G5,S1,None,LE,13,Y
+Oak Toad,Anaxyrus quercicus,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.102537,AMPHIBIANS,G5,S2,None,None,10,Y
+Barking Treefrog,Hyla gratiosa,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.106453,AMPHIBIANS,G5,S2S3,None,None,28,Y
+Lesser Siren,Siren intermedia,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.102332,AMPHIBIANS,G5,S2S3,None,None,12,Y
+Great Egret,Ardea alba,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.103493,BIRDS,G5,"S2S3B,S3N",None,None,12,Y
+American Bittern,Botaurus lentiginosus,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.103409,BIRDS,G5,"S1B,S2N",None,None,3,Y
+Piping Plover,Charadrius melodus,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.106046,BIRDS,G3,"S2B,S1N",LT,LT,16,Y
+Wilson's Plover,Charadrius wilsonia,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.104251,BIRDS,G5,S1B,None,LE,11,Y
+Northern Harrier,Circus hudsonius,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.104766,BIRDS,G5,"S1S2B,S3N",None,None,15,Y
+Sedge Wren,Cistothorus stellaris,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.1216384,BIRDS,G5,"S1B,S1S2N",None,None,5,Y
+Red-cockaded Woodpecker,Dryobates borealis,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.103433,BIRDS,G3,S1,LE,LE,8,Y
+Snowy Egret,Egretta thula,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.100485,BIRDS,G5,"S2B,S3N",None,None,10,Y
+Peregrine Falcon,Falco peregrinus,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.102654,BIRDS,G4,"S1B,S2N",None,LT,42,Y
+Common Gallinule,Gallinula galeata,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.872346,BIRDS,G5,"S1B,S1N",None,None,3,Y
+Gull-billed Tern,Gelochelidon nilotica,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.102273,BIRDS,G5,S2B,None,LT,19,Y
+Black-necked Stilt,Himantopus mexicanus,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.105198,BIRDS,G5,S1B,None,None,2,Y
+Black Rail,Laterallus jamaicensis,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.105641,BIRDS,G3,"S1B,S1N",LT,LE,23,Y
+Swainson's Warbler,Limnothlypis swainsonii,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.103514,BIRDS,G4,S2B,None,None,17,Y
+Yellow-crowned Night-heron,Nyctanassa violacea,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.106355,BIRDS,G5,"S2S3B,S3N",None,None,10,Y
+Pied-billed Grebe,Podilymbus podiceps,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.100209,BIRDS,G5,"S1B,S4N",None,None,3,Y
+King Rail,Rallus elegans,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.962122,BIRDS,G4,"S2B,S3N",None,None,12,Y
+Virginia Rail,Rallus limicola,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.106335,BIRDS,G5,"S2B,S3N",None,None,10,Y
+Black Skimmer,Rynchops niger,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.105078,BIRDS,G5,"S2B,S1N",None,None,19,Y
+Wayne's Black-throated Green Warbler,Setophaga virens waynei,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.102666,BIRDS,G5T1,S1B,SOC,None,1,Y
+Common Tern,Sterna hirundo,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.101840,BIRDS,G5,S2B,None,None,2,Y
+Least Tern,Sternula antillarum,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.101508,BIRDS,G4,S2B,None,None,18,Y
+Royal Tern,Thalasseus maximus,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.1168678,BIRDS,G5,S1B,None,None,6,Y
+Sandwich Tern,Thalasseus sandvicensis,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.103220,BIRDS,G5,S1B,None,None,4,Y
+Yellow Lance,Elliptio lanceolata,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.110016,BIRDS,G2,S2,LT,LT,46,N
+Atlantic Pigtoe,Fusconaia masoni,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.1066291,BIRDS,G1,S2,LT,LT,30,N
+Yellow Lampmussel,Lampsilis cariosa,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.109623,BIRDS,G3G4,S2,None,None,29,N
+Eastern Lampmussel,Lampsilis radiata,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.1066824,BIRDS,G5,S2S3,None,None,20,Y
+Orange-bellied Tiger Beetle,Cicindela abdominalis,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.114628,BIRDS,G3G4,S1,None,None,2,N
+Northeastern Beach Tiger Beetle,Cicindela dorsalis dorsalis,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.109729,BIRDS,G3G4T2,S2,LT,LT,18,Y
+A Tiger Beetle,Cicindela gratiosa,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.112381,BIRDS,G3G4,S1,None,None,1,Y
+A Tiger Beetle,Cicindela trifasciata,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.112382,BIRDS,G5,S1,None,None,6,Y
+Phreatic Isopod,Caecidotea phreatica,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.109887,BIRDS,G2G3,S1S3,SOC,None,3,Y
+Ohio River Shrimp,Macrobrachium ohione,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.113809,BIRDS,G4,S1,None,None,5,Y
+Southeastern Myotis Bat Fly,Basilia boardmanni,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.119833,BIRDS,G3,S1S2,None,None,2,N
+Spieth's Great Speckled Olive Mayfly,Siphloplecton costalense,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.111374,BIRDS,G2G4,SH,None,None,1,N
+Atlantic Sturgeon,Acipenser oxyrinchus,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.102787,FISH,G3,S2,LE,LE,4,Y
+Lake Chubsucker,Erimyzon sucetta,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.104017,FISH,G5,S2,None,None,12,Y
+Roanoke Logperch,Percina rex,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.102785,FISH,G1G2,S1S2,LE,LE,21,N
+A Mirid Bug,Bothynotus johnstoni,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.117688,FISH,G3,S1S3,None,None,1,Y
+Carolina Thread-legged Bug,Ploiaria carolina,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.110782,FISH,G4?,S1S3,None,None,1,Y
+Brimley's Assassin Bug,Pnirontis brimleyi,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.120172,FISH,G2,S1S3,SOC,None,1,Y
+Seashore Mirid Bug,Pycnoderiella virginiana,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.114227,FISH,GU,SU,None,None,1,Y
+Rusty-patched Bumblebee,Bombus affinis,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.108845,INVERTEBRATE,G2,S1,LE,PE,52,Y
+Southern Plains bumble bee,Bombus fraternus,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.832125,INVERTEBRATE,G2G4,S1S2,None,None,6,Y
+Cane Boring Moth,Acrapex relicta,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.114309,INVERTEBRATE,G4,S2S3,None,None,1,Y
+Dusky Roadside Skipper,Amblyscirtes alternata,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.114517,INVERTEBRATE,G2G3,SH,SOC,None,1,Y
+A Cane Moth,Argillophora furcilla,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.119264,INVERTEBRATE,G3G4,S1S3,None,None,2,Y
+Little Metalmark,Calephelis virginiensis,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.111394,INVERTEBRATE,G4,SH,None,None,10,Y
+Hessel's Hairstreak,Callophrys hesseli,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.110485,INVERTEBRATE,G3,S1,None,None,2,Y
+Frosted Elfin,Callophrys irus,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.116737,INVERTEBRATE,G2G3,S1S2,SOC,None,25,Y
+Giant gray Moth,Cymatophora approximaria,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.118963,INVERTEBRATE,G4G5,S1S3,None,None,1,Y
+Two-spotted Skipper,Euphyes bimacula,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.114898,INVERTEBRATE,G4,S2,None,None,10,Y
+Black Dash,Euphyes conspicua,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.109995,INVERTEBRATE,G4G5,SH,None,None,3,Y
+Dukes' Skipper,Euphyes dukesi,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.120478,INVERTEBRATE,G3G4,S2,None,None,13,Y
+Palatka Skipper,Euphyes pilatka,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.111309,INVERTEBRATE,G3,S1,None,None,2,Y
+A Cane Moth,Franclemontia interrogans,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.121118,INVERTEBRATE,G3G4,S1S3,None,None,1,Y
+A Prominent Moth,Heterocampa astarte,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.117813,INVERTEBRATE,G4?,S1S2,None,None,1,Y
+Yucca Giant Skipper,Megathymus yuccae,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.108181,INVERTEBRATE,G5,SH,None,None,2,Y
+A Noctuid Moth,Metria amella,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.118778,INVERTEBRATE,G5,S1S2,None,None,1,Y
+Helicta satyr,Neonympha helicta,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.754298,INVERTEBRATE,G3G4,S2,None,None,12,Y
+Southeastern Cane Borer Moth,Papaipema sp. 3,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.109329,INVERTEBRATE,G4,S2S3,None,None,4,Y
+Rare Skipper,Problema bulenta,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.120878,INVERTEBRATE,G3,S1S2,None,None,7,Y
+A Noctuid Moth,Protodeltote sp. 1,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.112358,INVERTEBRATE,G1G3,S1S2,SOC,None,1,Y
+Yellow-edged Pygarctia Moth,Pygarctia abdominalis,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.112254,INVERTEBRATE,G3,S1S2,None,None,1,Y
+King's Hairstreak,Satyrium kingi,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.115680,INVERTEBRATE,G3G4,S2S3,None,None,8,Y
+Franck's Sphinx,Sphinx franckii,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.112650,INVERTEBRATE,G4G5,S2S3,None,None,9,Y
+Eastern Big-eared Bat,Corynorhinus rafinesquii macrotis,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.100478,MAMMALS,G3G4T3,S2,None,LE,44,Y
+Southeastern Myotis,Myotis austroriparius,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.104595,MAMMALS,G4,S2,None,None,13,Y
+Little Brown Myotis,Myotis lucifugus,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.100473,MAMMALS,G3G4,S1S3,None,LE,10,N
+Northern long-eared Myotis,Myotis septentrionalis,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.102615,MAMMALS,G2G3,S1S3,LT,LT,63,Y
+Tricolored bat (=Eastern pipistrelle),Perimyotis subflavus,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.102580,MAMMALS,G3G4,S1S3,None,LE,41,Y
+A moss,Campylopus carolinae,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.123135,MAMMALS,G2,S1,SOC,None,2,Y
+A moss,Campylopus surinamensis,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.124424,MAMMALS,G4G5,S1,None,None,2,Y
+A liverwort,Frullania caulisequa,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.1030224,MAMMALS,G5,SH,None,None,2,Y
+A ruffle lichen,Parmotrema louisianae,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.121630,MAMMALS,G3G5,S1,None,None,3,Y
+Lurking Leskea,Plagiothecium latebricola,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.126959,MAMMALS,G3G4,SH,None,None,1,Y
+A Moss,Schlotheimia rugifolia,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.123751,MAMMALS,G3G5,SH,None,None,1,Y
+Large-leaf Peatmoss,Sphagnum macrophyllum var. macrophyllum,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.126087,MAMMALS,G5T3?,S2,None,None,6,Y
+A Moss,Syrrhopodon incompletus,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.124341,MAMMALS,G5,SH,None,None,1,Y
+Regal Darner,Coryphaeschna ingens,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.113580,MAMMALS,G5,S1,None,None,1,N
+Pale Bluet,Enallagma pallidum,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.112916,MAMMALS,G4,S1S2,None,None,2,Y
+Mantled Baskettail,Epitheca semiaquea,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.119253,MAMMALS,G5,S1,None,None,2,Y
+Marl pennant,Macrodiplax balteata,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.119184,MAMMALS,G5,S1,None,None,1,Y
+Fine-lined Emerald,Somatochlora filosa,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.111008,MAMMALS,G5,S2,None,None,13,Y
+Treetop Emerald,Somatochlora provocans,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.109431,MAMMALS,G4,S2,None,None,6,Y
+Swamp Forestfly,Prostoia hallasi,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.119686,OTHER,G3,S1S3,None,None,3,Y
+Loggerhead (Sea Turtle),Caretta caretta,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.105239,REPTILES,G3,"S1B,S1N",LT,LT,4,Y
+Canebrake Rattlesnake,Crotalus horridus [Coastal Plain population],https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.858493,REPTILES,G4T4Q,S1,None,LE,19,Y
+Chicken Turtle,Deirochelys reticularia,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.101923,REPTILES,G5,S1,None,LE,2,Y
+Glossy Swampsnake,Liodytes rigida,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.105389,REPTILES,G5,S1,None,None,2,Y
+Eastern Glass Lizard,Ophisaurus ventralis,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.100802,REPTILES,G5,S1,None,LT,3,Y
+Coastal Plain Calcareous Seepage Swamp,"Acer rubrum - Fraxinus pennsylvanica / Packera aurea - Pilea fontana - (Carex bromoides, Bidens laevis) Forest",https://www.dcr.virginia.gov/natural-heritage/natural-communities/ncpc3,TERRESTRIAL NATURAL COMMUNITY,G2,S2,None,None,24,Y
+Maritime Swamp Forest (Red Maple - Tupelo Type),"Acer rubrum - Nyssa (biflora, sylvatica) / Morella cerifera / Lorinseria areolata Forest",https://www.dcr.virginia.gov/natural-heritage/natural-communities/ncpe3,TERRESTRIAL NATURAL COMMUNITY,G2,S2,None,None,2,Y
+Salt Scrub,Baccharis halimifolia - Iva frutescens / Spartina patens Shrubland,https://www.dcr.virginia.gov/natural-heritage/natural-communities/ncea11,TERRESTRIAL NATURAL COMMUNITY,G5,S4,None,None,1,Y
+Coastal Plain Xeric Fluvial Terrace Woodland,Carya pallida / Quercus margarettae / Vaccinium arboreum / Piptochaetium avenaceum Woodland,https://www.dcr.virginia.gov/natural-heritage/natural-communities/nctf1,TERRESTRIAL NATURAL COMMUNITY,G3,S1,None,None,6,N
+Coastal Plain Seasonal Buttonbush Pond,Cephalanthus occidentalis - (Decodon verticillatus) / Kellochloa verrucosa - Dulichium arundinaceum - Persicaria hydropiperoides - (Juncus repens) Shrub Herbaceous Vegetation,https://www.dcr.virginia.gov/natural-heritage/natural-communities/ncpc1,TERRESTRIAL NATURAL COMMUNITY,G3?,S2,None,None,5,Y
+Coastal Plain / Piedmont Oxbow Shrub Swamp,Cephalanthus occidentalis - Decodon verticillatus Shrubland,https://www.dcr.virginia.gov/natural-heritage/natural-communities/ncpa3,TERRESTRIAL NATURAL COMMUNITY,G4G5,SU,None,None,4,N
+Peatland Atlantic White-Cedar Forest,Chamaecyparis thyoides / Persea palustris / Lyonia lucida - Ilex coriacea / Osmundastrum cinnamomeum Forest,https://www.dcr.virginia.gov/natural-heritage/natural-communities/ncpd2,TERRESTRIAL NATURAL COMMUNITY,G2,S1,None,None,2,Y
+Coastal Plain Depression Wetland,Coastal Plain Depression Swamp / Pond,https://www.dcr.virginia.gov/natural-heritage/natural-communities/ncpc1,TERRESTRIAL NATURAL COMMUNITY,G2,SNR,None,None,1,Y
+Wind-Tidal Oligohaline Marsh (Creeping Spikerush - Bull-Tongue Arrowhead Type),"Eleocharis fallax - Sagittaria lancifolia - Hibiscus moscheutos - (Schoenoplectus americanus, Eleocharis rostellata) Tidal Herbaceous Vegetation",https://www.dcr.virginia.gov/natural-heritage/natural-communities/ncea3,TERRESTRIAL NATURAL COMMUNITY,G1G2,S1,None,None,6,Y
+Coastal Plain Seasonal Pond (Narrow Plumegrass Type),"Erianthus strictus - Carex (joorii, glaucescens) - Coleataenia rigidula Herbaceous Vegetation",https://www.dcr.virginia.gov/natural-heritage/natural-communities/ncpc1,TERRESTRIAL NATURAL COMMUNITY,G2G3,SU,None,None,3,Y
+Coastal Plain Calcareous Ravine Forest,Fagus grandifolia - Acer floridanum - Quercus muehlenbergii / Sanguinaria canadensis Forest,https://www.dcr.virginia.gov/natural-heritage/natural-communities/nctb2,TERRESTRIAL NATURAL COMMUNITY,G2?,S2,None,None,8,Y
+Northern Coastal Plain / Piedmont Oak - Beech / Heath Forest,"Fagus grandifolia - Quercus (alba, montana, rubra) / Kalmia latifolia Forest",https://www.dcr.virginia.gov/natural-heritage/natural-communities/nctc8,TERRESTRIAL NATURAL COMMUNITY,G4,S3,None,None,22,Y
+Southern Coastal Plain Mesic Mixed Hardwood Forest,"Fagus grandifolia - Quercus (alba, nigra, michauxii) / Symplocos tinctoria - (Stewartia malacodendron) Forest",https://www.dcr.virginia.gov/natural-heritage/natural-communities/nctb4,TERRESTRIAL NATURAL COMMUNITY,G4?,S2S3,None,None,11,Y
+Northern Coastal Plain / Piedmont Mesic Mixed Hardwood Forest,"Fagus grandifolia - Quercus (alba, rubra) - Liriodendron tulipifera / (Ilex opaca) / Polystichum acrostichoides Forest",https://www.dcr.virginia.gov/natural-heritage/natural-communities/nctb4,TERRESTRIAL NATURAL COMMUNITY,G5,S5,None,None,28,N
+Tidal Oligohaline Marsh (Mixed Forbs Type),"Hibiscus moscheutos - Persicaria punctata - Peltandra virginica - (Typha angustifolia, Spartina cynosuroides) Tidal Herbaceous Vegetation",https://www.dcr.virginia.gov/natural-heritage/natural-communities/ncea2,TERRESTRIAL NATURAL COMMUNITY,G4,S4,None,None,4,Y
+Interdune Swale / Pond,Interdune Swale / Pond,https://www.dcr.virginia.gov/natural-heritage/natural-communities/ncpe2,TERRESTRIAL NATURAL COMMUNITY,G2,S2,None,None,5,Y
+Wind-Tidal Oligohaline Marsh (Black Needlerush Type),Juncus roemerianus - Eleocharis fallax Tidal Herbaceous Vegetation,https://www.dcr.virginia.gov/natural-heritage/natural-communities/ncea3,TERRESTRIAL NATURAL COMMUNITY,G2G3,S2S3,None,None,3,Y
+Interdune Swale (Mixed Rush Type),Juncus scirpoides - Eupatorium hyssopifolium - Euthamia caroliniana - Xyris jupicai Herbaceous Vegetation,https://www.dcr.virginia.gov/natural-heritage/natural-communities/ncpe2,TERRESTRIAL NATURAL COMMUNITY,G2G3,S1?,None,None,1,Y
+Southern Piedmont / Inner Coastal Plain Floodplain Terrace Forest,"Liquidambar styraciflua - Quercus (michauxii, shumardii) - Carya cordiformis / Ilex decidua / Carex amphibola Forest",https://www.dcr.virginia.gov/natural-heritage/natural-communities/ncpa2,TERRESTRIAL NATURAL COMMUNITY,G3G4,S3,None,None,7,N
+Oligohaline Tidal Shrub Swamp,Morella cerifera - Rosa palustris / Osmunda spectabilis - Thelypteris palustris Tidal Shrubland,https://www.dcr.virginia.gov/natural-heritage/natural-communities/ncea5,TERRESTRIAL NATURAL COMMUNITY,G4,S3,None,None,3,Y
+Tidal Freshwater / Oligohaline Aquatic Bed (Narrow-Leaved Spatterdock Type),Nuphar sagittifolia Permanently Flooded Tidal Herbaceous Vegetation,https://www.dcr.virginia.gov/natural-heritage/natural-communities/ncea7,TERRESTRIAL NATURAL COMMUNITY,G1G2,S1,None,None,1,Y
+Coastal Plain Seasonal Pond (Swamp Tupelo - Overcup Oak Type),Nyssa biflora - (Quercus lyrata) / Eubotrys racemosus / Carex joorii Forest,https://www.dcr.virginia.gov/natural-heritage/natural-communities/ncpc1,TERRESTRIAL NATURAL COMMUNITY,G1G2,S1S2,None,None,29,Y
+Coastal Plain Swamp Tupelo Blackwater Swamp,Nyssa biflora - (Taxodium distichum) / Clethra alnifolia - Viburnum nudum / Lorinseria areolata Forest,https://www.dcr.virginia.gov/natural-heritage/natural-communities/ncpa1,TERRESTRIAL NATURAL COMMUNITY,G3,S3?,None,None,4,N
+Wind-Tidal Tupelo - Bald Cypress Swamp,"Nyssa biflora - (Taxodium distichum, Pinus taeda) / Morella cerifera / Osmunda spectabilis Tidal Forest",https://www.dcr.virginia.gov/natural-heritage/natural-communities/ncea6,TERRESTRIAL NATURAL COMMUNITY,G2?,S2,None,None,2,Y
+Non-Riverine Swamp Forest (Mixed Evergreen Type),Nyssa biflora - Acer rubrum - Magnolia virginiana - Chamaecyparis thyoides / Lyonia lucida - Clethra alnifolia Forest,https://www.dcr.virginia.gov/natural-heritage/natural-communities/ncpc2,TERRESTRIAL NATURAL COMMUNITY,G2G3,S1,None,None,2,N
+Freshwater Tidal Hardwood Swamp,Nyssa biflora - Fraxinus profunda - (Fraxinus pennsylvanica) / Ilex verticillata / Persicaria arifolia Tidal Forest,https://www.dcr.virginia.gov/natural-heritage/natural-communities/ncea6,TERRESTRIAL NATURAL COMMUNITY,G3,S3,None,None,6,Y
+Non-Riverine Swamp Forest (Tupelo - Bald Cypress Type),Nyssa biflora - Taxodium distichum - Acer rubrum / (Persea palustris) / Clethra alnifolia / Anchistea virginica Forest,https://www.dcr.virginia.gov/natural-heritage/natural-communities/ncpc2,TERRESTRIAL NATURAL COMMUNITY,G2G3,S1S2,None,None,3,Y
+Interdune Swale / Pond (Switchgrass Type),Panicum virgatum - Schoenoplectus pungens Herbaceous Vegetation,https://www.dcr.virginia.gov/natural-heritage/natural-communities/ncpe2,TERRESTRIAL NATURAL COMMUNITY,G2G4,S2?,None,None,3,Y
+Longleaf Pine / Scrub Oak Sandhill Woodland,Pinus palustris - (Pinus serotina) / Quercus laevis / Gaylussacia frondosa - Kalmia angustifolia - Vaccinium tenellum Woodland,https://www.dcr.virginia.gov/natural-heritage/natural-communities/nctf1,TERRESTRIAL NATURAL COMMUNITY,G1,S1,None,None,4,Y
+Pond Pine Woodland / Pocosin,Pinus serotina / Smilax laurifolia - Ilex glabra / Anchistea virginica Woodland,https://www.dcr.virginia.gov/natural-heritage/natural-communities/ncpd1,TERRESTRIAL NATURAL COMMUNITY,G2?,S1,None,None,4,Y
+Loblolly Pine / Scrub Oak Sandhill Woodland,Pinus taeda - Quercus falcata - Quercus nigra / Quercus margarettae / Cnidoscolus stimulosus Woodland,https://www.dcr.virginia.gov/natural-heritage/natural-communities/nctf1,TERRESTRIAL NATURAL COMMUNITY,G3,SU,None,None,7,N
+Loblolly Pine / Sand Heather Dune Woodland,Pinus taeda / Hudsonia tomentosa Woodland,https://www.dcr.virginia.gov/natural-heritage/natural-communities/ncte3,TERRESTRIAL NATURAL COMMUNITY,G1G2,S1S2,None,None,9,Y
+Non-Riverine Wet Hardwood Forest (Southern Coastal Plain Type),"Quercus (michauxii, pagoda, laurifolia) / Carpinus caroliniana / (Leucothoe axillaris) - Arundinaria tecta Forest",https://www.dcr.virginia.gov/natural-heritage/natural-communities/ncpc2,TERRESTRIAL NATURAL COMMUNITY,G2,S1,None,None,6,Y
+Non-Riverine Wet Hardwood Forest (Northern Coastal Plain Type),"Quercus (phellos, pagoda, michauxii) / Ilex opaca - Clethra alnifolia / Lorinseria areolata Forest",https://www.dcr.virginia.gov/natural-heritage/natural-communities/ncpc2,TERRESTRIAL NATURAL COMMUNITY,G2?,S2,None,None,15,Y
+Northern Coastal Plain / Inner Piedmont Mixed Oak Floodplain Swamp,"Quercus (phellos, palustris, michauxii) - Liquidambar styraciflua / Cinna arundinacea Forest",https://www.dcr.virginia.gov/natural-heritage/natural-communities/ncpa2,TERRESTRIAL NATURAL COMMUNITY,G3G4,S3?,None,None,3,Y
+Coastal Plain Mixed Oak / Heath Forest,Quercus alba - Quercus falcata - (Carya pallida) / Gaylussacia frondosa Forest,https://www.dcr.virginia.gov/natural-heritage/natural-communities/nctc6,TERRESTRIAL NATURAL COMMUNITY,G4G5,S4,None,None,3,Y
+Coastal Plain Bottomland Forest (Brownwater Low Terrace Type),"Quercus lyrata - Fraxinus pennsylvanica - (Carya aquatica, Quercus laurifolia) / Carex louisianica - Leersia lenticularis Forest",https://www.dcr.virginia.gov/natural-heritage/natural-communities/ncpa2,TERRESTRIAL NATURAL COMMUNITY,G4G5,S3?,None,None,7,Y
+Coastal Plain Bottomland Forest (Brownwater High Terrace Type),Quercus michauxii - Quercus pagoda - Carya ovata / Carpinus caroliniana / Carex abscondita Forest,https://www.dcr.virginia.gov/natural-heritage/natural-communities/ncpa2,TERRESTRIAL NATURAL COMMUNITY,G3G4,S3?,None,None,3,N
+Coastal Plain Dry Calcareous Forest,Quercus muehlenbergii - Carya cordiformis / Cercis canadensis / Dichanthelium boscii - Erigeron pulchellus Forest,https://www.dcr.virginia.gov/natural-heritage/natural-communities/nctc2,TERRESTRIAL NATURAL COMMUNITY,G1,S1,None,None,17,Y
+Maritime Mixed Deciduous Forest,Quercus nigra - Pinus taeda - Carya pallida / Persea palustris / Symplocos tinctoria / Gelsemium sempervirens Forest,https://www.dcr.virginia.gov/natural-heritage/natural-communities/ncte4,TERRESTRIAL NATURAL COMMUNITY,G1,S1,None,None,1,Y
+Coastal Plain Depression Swamp (Willow Oak - Red Maple - Sweetgum Type),"Quercus phellos - Acer rubrum - Liquidambar styraciflua / Vaccinium (formosum, fuscatum) Forest",https://www.dcr.virginia.gov/natural-heritage/natural-communities/ncpc1,TERRESTRIAL NATURAL COMMUNITY,G3,S2,None,None,17,Y
+Live Oak Dune Scrub,Quercus virginiana - (Morella pensylvanica) Shrubland,https://www.dcr.virginia.gov/natural-heritage/natural-communities/ncte2,TERRESTRIAL NATURAL COMMUNITY,G3,S1,None,None,2,Y
+Maritime Live Oak Forest,Quercus virginiana - Pinus taeda Forest,https://www.dcr.virginia.gov/natural-heritage/natural-communities/ncte4,TERRESTRIAL NATURAL COMMUNITY,G2,S1,None,None,3,Y
+Live Oak - Bluejack Oak Dune Woodland,Quercus virginiana - Quercus incana Woodland,https://www.dcr.virginia.gov/natural-heritage/natural-communities/ncte3,TERRESTRIAL NATURAL COMMUNITY,G1,S1,None,None,1,Y
+Tidal Oligohaline Marsh (Saltmeadow Cordgrass - Olney Threesquare Low Interior Marsh Type),Schoenoplectus americanus - Spartina patens Tidal Herbaceous Vegetation,https://www.dcr.virginia.gov/natural-heritage/natural-communities/ncea2,TERRESTRIAL NATURAL COMMUNITY,G3,S3?,None,None,2,Y
+Low Salt Marsh (Salt Panne Type),Spartina alterniflora - Distichlis spicata - (Spartina patens) Tidal Herbaceous Vegetation,https://www.dcr.virginia.gov/natural-heritage/natural-communities/ncea4,TERRESTRIAL NATURAL COMMUNITY,GNR,S3?,None,None,3,Y
+Riverine Salt Marsh (Saltmarsh Cordgrass - Saltmarsh Bulrush Type),Spartina alterniflora - Spartina cynosuroides - Bolboschoenus robustus Tidal Herbaceous Vegetation,https://www.dcr.virginia.gov/natural-heritage/natural-communities/ncea4,TERRESTRIAL NATURAL COMMUNITY,GNR,S3?,None,None,3,Y
+Wind-Tidal Oligohaline Marsh (Big Cordgrass Type),Spartina cynosuroides - Schoenoplectus americanus - Sagittaria lancifolia Tidal Herbaceous Vegetation,https://www.dcr.virginia.gov/natural-heritage/natural-communities/ncea3,TERRESTRIAL NATURAL COMMUNITY,G2G3,S2,None,None,2,Y
+Tidal Oligohaline Marsh (Big Cordgrass Type),Spartina cynosuroides Tidal Herbaceous Vegetation,https://www.dcr.virginia.gov/natural-heritage/natural-communities/ncea2,TERRESTRIAL NATURAL COMMUNITY,G4,S4,None,None,5,Y
+Interdune Swale (Southern Mixed Grassland Type),Spartina patens - Schoenoplectus pungens - Thelypteris palustris - Centella asiatica Herbaceous Vegetation,https://www.dcr.virginia.gov/natural-heritage/natural-communities/ncpe2,TERRESTRIAL NATURAL COMMUNITY,G2,S2,None,None,1,Y
+Northern Coastal Plain Tidal Bald Cypress Forest,"Taxodium distichum - (Nyssa biflora, Fraxinus pennsylvanica) / Pontederia cordata Tidal Forest",https://www.dcr.virginia.gov/natural-heritage/natural-communities/ncea6,TERRESTRIAL NATURAL COMMUNITY,G3,S2,None,None,3,Y
+Bald Cypress - Mixed Tupelo Intermediate Swamp,"Taxodium distichum - Nyssa (biflora, aquatica) / Itea virginica / Saururus cernuus Forest",https://www.dcr.virginia.gov/natural-heritage/natural-communities/ncpa1,TERRESTRIAL NATURAL COMMUNITY,G3G4,S3S4,None,None,4,Y
+Bald Cypress - Water Tupelo Brownwater Swamp,Taxodium distichum - Nyssa aquatica / Fraxinus caroliniana Forest,https://www.dcr.virginia.gov/natural-heritage/natural-communities/ncpa1,TERRESTRIAL NATURAL COMMUNITY,G5?,S4,None,None,5,N
+Maritime Swamp Forest (Bald Cypress Type),Taxodium distichum / Cephalanthus occidentalis / Boehmeria cylindrica - Ceratophyllum echinatum Forest,https://www.dcr.virginia.gov/natural-heritage/natural-communities/ncpe3,TERRESTRIAL NATURAL COMMUNITY,G1,S1,None,None,1,Y
+Bald Cypress Seasonal Pond / Lake Shore,Taxodium distichum / Cephalanthus occidentalis / Juncus repens Woodland,https://www.dcr.virginia.gov/natural-heritage/natural-communities/ncpc1,TERRESTRIAL NATURAL COMMUNITY,G1?,S1,None,None,1,Y
+Wind-Tidal Bald Cypress Woodland,Taxodium distichum / Zizania aquatica - Carex canescens Tidal Woodland,https://www.dcr.virginia.gov/natural-heritage/natural-communities/ncea6,TERRESTRIAL NATURAL COMMUNITY,G1Q,SU,None,None,1,Y
+Tidal Swamp Forest / Woodland,Tidal Swamp Forest / Woodland,https://www.dcr.virginia.gov/natural-heritage/natural-communities/ncea6,TERRESTRIAL NATURAL COMMUNITY,G3,SNR,None,None,1,Y
+South Atlantic Mixed Dune Grassland,Uniola paniculata - Calamagrostis breviligulata Herbaceous Vegetation,https://www.dcr.virginia.gov/natural-heritage/natural-communities/ncte1,TERRESTRIAL NATURAL COMMUNITY,G3,S2,None,None,2,Y
+Tidal Freshwater Marsh (Wild Rice - Mixed Forbs Type),Zizania aquatica - Pontederia cordata - Peltandra virginica - Persicaria punctata Tidal Herbaceous Vegetation,https://www.dcr.virginia.gov/natural-heritage/natural-communities/ncea1,TERRESTRIAL NATURAL COMMUNITY,G4?,S4?,None,None,9,Y
+Sensitive Joint-vetch,Aeschynomene virginica,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.159058,VASCULAR PLANTS,G2,S2,LT,LT,22,Y
+Golden Colicroot,Aletris aurea,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.150314,VASCULAR PLANTS,G5,S1,None,None,11,Y
+Spreading sandwort,Arenaria lanuginosa var. lanuginosa,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.128540,VASCULAR PLANTS,G5T5,SH,None,None,1,Y
+Purple Milkweed,Asclepias purpurascens,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.145205,VASCULAR PLANTS,G5?,S2,None,None,28,Y
+Red Milkweed,Asclepias rubra,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.151991,VASCULAR PLANTS,G4G5,S2,None,None,30,N
+Sandhills butterfly-weed,Asclepias tuberosa var. rolfsii,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.157130,VASCULAR PLANTS,G5TNR,S1,None,None,5,Y
+Blue water-hyssop,Bacopa caroliniana,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.156041,VASCULAR PLANTS,G4G5,SH,None,None,2,Y
+Gray-hairy wild indigo,Baptisia cinerea,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.146790,VASCULAR PLANTS,G3G4,SH,None,None,3,N
+Spring Bartonia,Bartonia verna,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.152343,VASCULAR PLANTS,G5?,S1,None,None,1,Y
+Eastern doll's-daisy,Boltonia asteroides var. glastifolia,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.840696,VASCULAR PLANTS,G5TNR,S2,None,None,1,Y
+Violet Burmannia,Burmannia biflora,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.129277,VASCULAR PLANTS,G4G5,S1,None,None,2,Y
+Carolina Fanwort,Cabomba caroliniana,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.146971,VASCULAR PLANTS,G5,S1S2,None,None,9,Y
+Pine barren sandreed,Calamovilfa brevipilis,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.154028,VASCULAR PLANTS,G4,S1,None,None,9,Y
+Pale Grass-pink,Calopogon pallidus,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.132962,VASCULAR PLANTS,G4G5,S1,None,None,3,Y
+Tuberosus Grass-pink,Calopogon tuberosus var. tuberosus,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.141726,VASCULAR PLANTS,G5T5,S1S2,None,None,17,Y
+Sweet-shrub,Calycanthus floridus,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.134420,VASCULAR PLANTS,G5,S1,None,None,11,N
+Barratt's Sedge,Carex barrattii,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.144090,VASCULAR PLANTS,G4,S2,None,None,12,Y
+Crowfoot sedge,Carex crus-corvi,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.132739,VASCULAR PLANTS,G5,S2,None,None,6,N
+Cypress-knee sedge,Carex decomposita,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.154855,VASCULAR PLANTS,G3G4,S1,None,None,13,Y
+False Hop Sedge,Carex lupuliformis,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.155684,VASCULAR PLANTS,G4,S1S2,None,None,15,Y
+Kidney sedge,Carex reniformis,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.142694,VASCULAR PLANTS,G4?,S1,None,None,6,Y
+Sandy-woods Chaffhead,Carphephorus bellidifolius,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.144488,VASCULAR PLANTS,G4,S1S2,None,None,16,Y
+Woolly Chaffhead,Carphephorus tomentosus,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.142069,VASCULAR PLANTS,G4,S1,None,None,13,N
+Wild Olive,Cartrema americanum,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.149806,VASCULAR PLANTS,G5,S1,None,None,4,Y
+Cuthbert's Turtlehead,Chelone cuthbertii,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.158507,VASCULAR PLANTS,G3,S2,None,None,34,Y
+Red Turtlehead,Chelone obliqua var. obliqua,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.154508,VASCULAR PLANTS,G4T3T4Q,S1,None,None,10,Y
+Cottony Golden-aster,Chrysopsis gossypina,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.133526,VASCULAR PLANTS,G5,S1,None,None,4,Y
+Nuttall's Thistle,Cirsium nuttallii,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.148705,VASCULAR PLANTS,G5,SH,None,None,2,N
+Sandhill thistle,Cirsium repandum,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.129721,VASCULAR PLANTS,G5,SH,None,None,2,Y
+Sawgrass,Cladium jamaicense,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.136263,VASCULAR PLANTS,G5T5,S1S2,None,None,4,Y
+Large spreading pogonia,Cleistesiopsis divaricata,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.129323,VASCULAR PLANTS,G4,S1,None,None,17,Y
+Coastal Plain Small Spreading Pogonia,Cleistesiopsis oricamporum,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.848776,VASCULAR PLANTS,G3?,S1,None,None,1,Y
+Pool Coreopsis,Coreopsis falcata,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.157382,VASCULAR PLANTS,G4G5,S1,None,None,1,Y
+Savanna coreopsis,Coreopsis linifolia,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.138958,VASCULAR PLANTS,G4Q,S1,None,None,4,Y
+Pursh's rattlebox,Crotalaria purshii,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.134189,VASCULAR PLANTS,G5,S1,None,None,3,N
+Prostrate Rattle-box,Crotalaria rotundifolia,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.151254,VASCULAR PLANTS,G5,SH,None,None,6,Y
+Toothache Grass,Ctenium aromaticum,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.143256,VASCULAR PLANTS,G5,S1,None,None,5,Y
+Buttonbush dodder,Cuscuta cephalanthi,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.151489,VASCULAR PLANTS,G5,S1,None,None,8,Y
+Hazel Dodder,Cuscuta coryli,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.150638,VASCULAR PLANTS,G5?,S2,None,None,14,Y
+Big-seed Alfalfa dodder,Cuscuta indecora,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.155507,VASCULAR PLANTS,G5,S1,None,None,16,Y
+Smartweed Dodder,Cuscuta polygonorum,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.154263,VASCULAR PLANTS,G5,S1,None,None,10,Y
+Grasslike roselings,Cuthbertia graminea,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.143361,VASCULAR PLANTS,G5,S1,None,None,4,Y
+Umbrella Flatsedge,Cyperus diandrus,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.142875,VASCULAR PLANTS,G5,S1,None,None,4,Y
+American halfchaff sedge,Cyperus neotropicalis,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.131483,VASCULAR PLANTS,G5,S1,None,None,9,Y
+Slender sand sedge,Cyperus odoratus var. engelmannii,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.155202,VASCULAR PLANTS,G4Q,S1,None,None,2,Y
+Plukenet's flatsedge,Cyperus plukenetii,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.130126,VASCULAR PLANTS,G5,S2,None,None,13,Y
+Small-flower halfchaff sedge,Cyperus subsquarrosus,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.144682,VASCULAR PLANTS,G5,S2,None,None,11,N
+Toothed Tick-treefoil,Desmodium cuspidatum,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.156207,VASCULAR PLANTS,G5,S2,None,None,13,Y
+Pineland Tick-trefoil,Desmodium strictum,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.136936,VASCULAR PLANTS,G4,S2,None,None,14,Y
+Slim-leaf Tick-trefoil,Desmodium tenuifolium,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.160687,VASCULAR PLANTS,G4,S1,None,None,9,Y
+Blue Panic Grass,Dichanthelium caerulescens,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.131345,VASCULAR PLANTS,G2G3,S1,SOC,None,6,Y
+Blood panic grass,Dichanthelium consanguineum,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.150769,VASCULAR PLANTS,G5,S1S2,None,None,15,Y
+Oval-flowered panic grass,Dichanthelium ovale var. ovale,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.139253,VASCULAR PLANTS,G5T5,S1?,None,None,4,Y
+Dwarf Crabgrass,Digitaria serotina,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.139584,VASCULAR PLANTS,G5?,S1,None,None,3,N
+Baldwin's spikerush,Eleocharis baldwinii,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.158339,VASCULAR PLANTS,G4G5,S1,None,None,10,Y
+Black-fruited Spikerush,Eleocharis melanocarpa,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.149590,VASCULAR PLANTS,G4,S2,None,None,11,Y
+Rooted Spikerush,Eleocharis radicans,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.134569,VASCULAR PLANTS,G5,SH,None,None,1,Y
+Three-angled spikerush,Eleocharis tricostata,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.142022,VASCULAR PLANTS,G4,S1,None,None,6,N
+One-scale Spikerush,Eleocharis uniglumis,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.858808,VASCULAR PLANTS,G5,S1,None,None,2,Y
+Viviparous Spikerush,Eleocharis vivipara,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.158935,VASCULAR PLANTS,G5,S1,None,None,5,Y
+False Rue-anemone,Enemion biternatum,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.150438,VASCULAR PLANTS,G5,S1,None,None,3,N
+Compressed plumegrass,Erianthus coarctatus,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.154815,VASCULAR PLANTS,G5?,S1,None,None,7,Y
+White-top Fleabane,Erigeron vernus,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.129674,VASCULAR PLANTS,G5,S2,None,None,14,Y
+Ten-angled pipewort,Eriocaulon decangulare var. decangulare,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.132965,VASCULAR PLANTS,G5T5?,S2,None,None,19,Y
+Parker's Pipewort,Eriocaulon parkeri,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.137877,VASCULAR PLANTS,G3,S2,None,None,18,Y
+Northern rattlesnake-master,Eryngium yuccifolium var. yuccifolium,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.153339,VASCULAR PLANTS,G5T5,S2,None,None,29,N
+Narrow-leaf bushy thoroughwort,Eupatorium linearifolium,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.138671,VASCULAR PLANTS,G5TNR,SH,None,None,4,Y
+Seaside Thoroughwort,Eupatorium maritimum,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.971545,VASCULAR PLANTS,G2?,S1,SOC,None,4,Y
+Southern seaside spurge,Euphorbia bombensis,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.137131,VASCULAR PLANTS,G4G5,S2,None,None,20,Y
+Harper's fimbry,Fimbristylis perpusilla,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.148054,VASCULAR PLANTS,G2,S1,SOC,LE,2,Y
+Pink Thoroughwort,Fleischmannia incarnata,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.129109,VASCULAR PLANTS,G5,S2,None,None,19,Y
+Pine barren gentian,Gentiana autumnalis,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.134657,VASCULAR PLANTS,G3,S1,None,None,5,Y
+Short-leaf sneezeweed,Helenium brevifolium,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.153485,VASCULAR PLANTS,G4,S2,None,None,15,Y
+Seaside Heliotrope,Heliotropium curassavicum var. curassavicum,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.137878,VASCULAR PLANTS,G5T5,S1,None,None,8,Y
+Atlantic Mud plantain,Heteranthera pauciflora,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.1170638,VASCULAR PLANTS,G3?,S1,None,None,3,Y
+Sea-beach Sandwort,Honckenya peploides ssp. robusta,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.135630,VASCULAR PLANTS,G5T5,SH,None,None,1,Y
+Coastal water-pennywort,Hydrocotyle bonariensis,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.155661,VASCULAR PLANTS,G5,S2,None,None,5,Y
+Maidencane,Hymenachne hemitomon,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.140531,VASCULAR PLANTS,G5?,S2,None,None,7,Y
+Bog St. John's-wort,Hypericum adpressum,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.132006,VASCULAR PLANTS,G3,S1,None,None,3,Y
+Coppery St. John's-wort,Hypericum denticulatum,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.139805,VASCULAR PLANTS,G5,S1,None,None,1,Y
+Hairy St. John's-wort,Hypericum setosum,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.132345,VASCULAR PLANTS,G4G5,S1S2,None,None,16,N
+Glossy-seed yellow stargrass,Hypoxis sessilis,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.147585,VASCULAR PLANTS,G4,SH,None,None,1,Y
+Big gallberry,Ilex coriacea,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.132294,VASCULAR PLANTS,G5,S1,None,None,10,Y
+Winter Quillwort,Isoetes hyemalis,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.147799,VASCULAR PLANTS,G2G3,S2,SOC,None,10,N
+Small Whorled Pogonia,Isotria medeoloides,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.137976,VASCULAR PLANTS,G2G3,S2,LT,LE,65,Y
+Dune marsh-elder,Iva imbricata,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.142093,VASCULAR PLANTS,G5?,S1,None,None,9,Y
+New Jersey Rush,Juncus caesariensis,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.136247,VASCULAR PLANTS,G2G3,S2,SOC,LT,13,Y
+Bog Rush,Juncus elliottii,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.132938,VASCULAR PLANTS,G4G5,S1,None,None,7,Y
+Big-headed rush,Juncus megacephalus,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.160580,VASCULAR PLANTS,G4G5,S2,None,None,10,Y
+Brown-fruited Rush,Juncus pelocarpus,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.146074,VASCULAR PLANTS,G5,S2,None,None,8,Y
+Sheep laurel,Kalmia angustifolia,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.136087,VASCULAR PLANTS,G5,S2,None,None,13,Y
+Carolina laurel,Kalmia carolina,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.136342,VASCULAR PLANTS,G4,S2,None,None,12,Y
+Redroot,Lachnanthes caroliniana,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.140914,VASCULAR PLANTS,G4,SH,None,None,2,Y
+Common bog-buttons,Lachnocaulon anceps,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.143159,VASCULAR PLANTS,G5,S1,None,None,17,Y
+Mountain Hairgrass,Leptoloma cognatum,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.141163,VASCULAR PLANTS,G5T5,S1,None,None,6,N
+Carolina Lilaeopsis,Lilaeopsis carolinensis,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.141492,VASCULAR PLANTS,G3G5,S1,None,None,13,Y
+Pine lily,Lilium catesbaei,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.129779,VASCULAR PLANTS,G4,S1,None,None,4,Y
+sandhills bog lily,Lilium pyrophilum,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.161333,VASCULAR PLANTS,G2,S1,SOC,None,8,Y
+Mudwort,Limosella australis,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.153341,VASCULAR PLANTS,G5,SH,None,None,1,Y
+Bog twayblade,Liparis loeselii,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.146901,VASCULAR PLANTS,G5,S2,None,None,30,Y
+Virginia false gromwell,Lithospermum virginianum,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.129500,VASCULAR PLANTS,G4,S2,None,None,16,N
+Pondspice,Litsea aestivalis,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.136111,VASCULAR PLANTS,G3?,S1,None,None,3,Y
+Long-leaf lobelia,Lobelia elongata,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.133807,VASCULAR PLANTS,G4G5,S1,None,None,7,Y
+Winged Seedbox,Ludwigia alata,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.154312,VASCULAR PLANTS,G3G5,S1,None,None,7,Y
+Long Beach Seedbox,Ludwigia brevipes,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.149323,VASCULAR PLANTS,G2,S2,SOC,None,15,Y
+Rafinesque's seedbox,Ludwigia hirtella,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.154442,VASCULAR PLANTS,G5,S2,None,None,22,Y
+Hairy Seedbox,Ludwigia pilosa,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.135067,VASCULAR PLANTS,G5,S1,None,None,4,Y
+Raven's Seedbox,Ludwigia ravenii,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.159218,VASCULAR PLANTS,G1G2,S1,SOC,PE,11,Y
+Savanna Seedbox,Ludwigia virgata,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.155975,VASCULAR PLANTS,G5,SH,None,None,1,Y
+Southern Winged loosestrife,Lythrum lanceolatum,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.144636,VASCULAR PLANTS,G5T5,S1,None,None,4,Y
+Appalachian Adder's-mouth,Malaxis bayardii,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.145455,VASCULAR PLANTS,G1G2,SH,SOC,None,4,Y
+Shade Mudflower,Micranthemum umbrosum,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.136384,VASCULAR PLANTS,G5,S2,None,None,8,N
+Carolina sandwort,Minuartia caroliniana,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.137354,VASCULAR PLANTS,G5,SH,None,None,1,Y
+Lax Hornpod,Mitreola petiolata,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.154738,VASCULAR PLANTS,G5,S1,None,None,10,Y
+Dwarf wax myrtle,Morella pumila,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.135313,VASCULAR PLANTS,G5TNR,S1,None,None,4,Y
+Loose water-milfoil,Myriophyllum laxum,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.139527,VASCULAR PLANTS,G3,SH,None,None,1,Y
+Slender Rattlesnake-root,Nabalus autumnalis,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.160774,VASCULAR PLANTS,G4G5,S1,None,None,10,Y
+Narrow-leaved Spatterdock,Nuphar sagittifolia,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.152774,VASCULAR PLANTS,G5T2,S1,SOC,LT,2,Y
+Riverbank evening-primrose,Oenothera riparia,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.728470,VASCULAR PLANTS,G2G3,S1S2,SOC,None,1,Y
+Bosc's Bluets,Oldenlandia boscii,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.141616,VASCULAR PLANTS,G5,S1,None,None,7,N
+Long-stem adder's-tongue,Ophioglossum petiolatum,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.133123,VASCULAR PLANTS,G5,S1,None,None,3,Y
+Pitchfork Paspalum,Paspalum bifidum,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.130266,VASCULAR PLANTS,G5,SH,None,None,2,N
+Walter's paspalum,Paspalum dissectum,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.132842,VASCULAR PLANTS,G4?,S2,None,None,14,Y
+Joint Paspalum,Paspalum distichum,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.147763,VASCULAR PLANTS,G5,S1,None,None,6,Y
+Early Paspalum,Paspalum praecox,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.151995,VASCULAR PLANTS,G4,S1,None,None,4,Y
+Southern beard-tongue,Penstemon australis,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.148179,VASCULAR PLANTS,G5,S1?,None,None,6,N
+Downy Phlox,Phlox pilosa,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.133873,VASCULAR PLANTS,G5,S1,None,None,11,Y
+Sawtooth frogfruit,Phyla nodiflora var. nodiflora,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.151166,VASCULAR PLANTS,G5TNR,S1,None,None,4,Y
+Longleaf pine,Pinus palustris,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.152746,VASCULAR PLANTS,G5,S1,None,None,9,Y
+Small white fringed orchid,Platanthera blephariglottis,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.142013,VASCULAR PLANTS,G5,S2,None,None,14,Y
+October-flower,Polygonella polygama,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.140480,VASCULAR PLANTS,G4,S1,None,None,1,Y
+Beach plum,Prunus maritima,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.146886,VASCULAR PLANTS,G4,S1?,None,None,2,Y
+Awned Mountain-mint,Pycnanthemum setosum,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.148592,VASCULAR PLANTS,G4,S1,None,None,4,Y
+Torrey's Mountain-mint,Pycnanthemum torreyi,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.141413,VASCULAR PLANTS,G2,S2,SOC,PT,20,N
+Common pyxie-moss,Pyxidanthera barbulata,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.158139,VASCULAR PLANTS,G4,S1,None,None,4,Y
+Sand laurel oak,Quercus hemisphaerica,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.128349,VASCULAR PLANTS,G5,S1,None,None,6,Y
+Bluejack oak,Quercus incana,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.132247,VASCULAR PLANTS,G5,S2,None,None,16,Y
+Dwarf Chinquapin Oak,Quercus prinoides,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.131048,VASCULAR PLANTS,G5,S1,None,None,25,Y
+Ivy-leaved water crowfoot,Ranunculus hederaceus,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.146813,VASCULAR PLANTS,G5,SH,None,None,8,Y
+Mississippi Buttercup,Ranunculus laxicaulis,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.157688,VASCULAR PLANTS,G5?,SH,None,None,4,N
+Fringed meadow beauty,Rhexia petiolata,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.132645,VASCULAR PLANTS,G5?,S1,None,None,11,Y
+Small bunched beaksedge,Rhynchospora cephalantha var. attenuata,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.131116,VASCULAR PLANTS,G5T3?,S1,None,None,7,N
+Narrow-leaf whitetop sedge,Rhynchospora colorata,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.145768,VASCULAR PLANTS,G5,S1,None,None,3,Y
+Savanna beaksedge,Rhynchospora debilis,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.135431,VASCULAR PLANTS,G4?,S1,None,None,11,Y
+Narrow-fruited Fasciculate Beaksedge,Rhynchospora distans,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.140943,VASCULAR PLANTS,G5T4?,S1,None,None,1,Y
+Fasciculate Beaksedge,Rhynchospora fascicularis,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.129875,VASCULAR PLANTS,G5,S2,None,None,8,Y
+Thread-leaved beaksedge,Rhynchospora filifolia,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.147671,VASCULAR PLANTS,G5,SH,None,None,1,N
+Short-beaked beaksedge,Rhynchospora nitens,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.131984,VASCULAR PLANTS,G4?,SH,None,None,3,N
+Pale beaksedge,Rhynchospora pallida,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.134948,VASCULAR PLANTS,G3,SX,None,None,1,Y
+Long-beaked beaksedge,Rhynchospora scirpoides,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.143935,VASCULAR PLANTS,G4,S1,None,None,5,Y
+Coastal bog beaksedge,Rhynchospora stenophylla,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.141923,VASCULAR PLANTS,G4,S1,None,None,1,N
+Wright's beaksedge,Rhynchospora wrightiana,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.128307,VASCULAR PLANTS,G5,S1,None,None,3,Y
+Lake Cress,Rorippa aquatica,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.150383,VASCULAR PLANTS,G4?,SH,None,None,1,N
+Northern Cut-leaf Coneflower,Rudbeckia laciniata var. bipinnata,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.128212,VASCULAR PLANTS,G5TNR,S1,None,None,4,Y
+Slender Marsh-pink,Sabatia campanulata,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.152525,VASCULAR PLANTS,G5,S2,None,None,21,Y
+Lance-leaved rose-gentian,Sabatia difformis,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.147232,VASCULAR PLANTS,G4G5,S1,None,None,4,N
+Engelmann's arrowhead,Sagittaria engelmanniana,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.145956,VASCULAR PLANTS,G5?,SH,None,None,1,Y
+Tidal arrowhead,Sagittaria spatulata,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.160865,VASCULAR PLANTS,G5T4,S1,None,None,1,Y
+Yellow Pitcher plant,Sarracenia flava,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.160353,VASCULAR PLANTS,G5?,S1,None,None,21,Y
+Purple pitcher plant,Sarracenia purpurea,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.949755,VASCULAR PLANTS,G5,S2,None,None,40,Y
+Reclining Bulrush,Scirpus flaccidifolius,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.132746,VASCULAR PLANTS,G2,S1S2,SOC,LT,6,N
+Hairy nutrush,Scleria ciliata var. ciliata,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.155728,VASCULAR PLANTS,G5TNR,S1,None,None,11,N
+Slender Nutrush,Scleria minor,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.141684,VASCULAR PLANTS,G4,S2,None,None,25,Y
+Whorled Nutrush,Scleria verticillata,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.139233,VASCULAR PLANTS,G5,S2,None,None,8,Y
+One-flowered sclerolepis,Sclerolepis uniflora,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.149204,VASCULAR PLANTS,G4,S1,None,None,2,Y
+Hoary Skullcap,Scutellaria incana,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.161118,VASCULAR PLANTS,G5,S2,None,None,13,Y
+Senna seymeria,Seymeria cassioides,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.129503,VASCULAR PLANTS,G5,S1S2,None,None,7,Y
+Elliott's sida,Sida elliottii var. elliottii,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.887461,VASCULAR PLANTS,G4G5TNR,S1,None,None,4,N
+White Blue-eyed-grass,Sisyrinchium albidum,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.153920,VASCULAR PLANTS,G5?,S2,None,None,17,Y
+Elliott's goldenrod,Solidago latissimifolia,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.151147,VASCULAR PLANTS,G5,S2,None,None,13,Y
+Pine barren bog goldenrod,Solidago stricta,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.144881,VASCULAR PLANTS,G5,S1,None,None,4,N
+Twisted-leaf goldenrod,Solidago tortifolia,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.148292,VASCULAR PLANTS,G4G5,S1,None,None,10,Y
+Freshwater Cordgrass,Spartina pectinata,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.144026,VASCULAR PLANTS,G5,S2,None,None,20,Y
+Rough-fruit scale-seed,Spermolepis divaricata,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.1208163,VASCULAR PLANTS,GNR,S1?,None,None,1,N
+Long-leaf wedgegrass,Sphenopholis filiformis,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.157141,VASCULAR PLANTS,G4?,S1,None,None,3,Y
+Eaton's Ladies'-tresses,Spiranthes eatonii,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.141723,VASCULAR PLANTS,G3Q,S1,None,None,3,Y
+Rough Hedge-nettle,Stachys aspera,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.758607,VASCULAR PLANTS,G4?,S2,None,None,5,Y
+Gaping Panic Grass,Steinchisma hians,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.135121,VASCULAR PLANTS,G5,S1,None,None,7,N
+Trailing Loosestrife,Steironema radicans,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.156929,VASCULAR PLANTS,G4G5,SH,None,None,4,N
+Dense-flowered camas,Stenanthium densum,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.157875,VASCULAR PLANTS,G5,S1,None,None,4,Y
+Mountain Camellia,Stewartia ovata,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.148162,VASCULAR PLANTS,G4,S2,None,None,13,Y
+Queen's-delight,Stillingia sylvatica ssp. sylvatica,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.150467,VASCULAR PLANTS,G5T5,S1,None,None,4,Y
+Pineland scalypink,Stipulicida setacea,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.148818,VASCULAR PLANTS,G4G5,S1,None,None,5,Y
+Elliott's Aster,Symphyotrichum elliottii,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.152459,VASCULAR PLANTS,G4,S1,None,None,4,Y
+Pondcypress,Taxodium ascendens,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.141602,VASCULAR PLANTS,G5,S1,None,None,2,Y
+Spanish-moss,Tillandsia usneoides,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.132985,VASCULAR PLANTS,G5,S1S2,None,None,19,Y
+Lesser marsh St. John's-wort,Triadenum tubulosum,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.138392,VASCULAR PLANTS,G4?,S2,None,None,20,Y
+Coastal false asphodel,Triantha racemosa,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.150690,VASCULAR PLANTS,G5,SH,None,None,4,Y
+Narrow-leaf blue curls,Trichostema setaceum,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.132170,VASCULAR PLANTS,G5,S2,None,None,20,N
+Chapman's purpletop,Tridens chapmanii,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.143576,VASCULAR PLANTS,G5T3,S1,None,None,7,Y
+Virginia Least Trillium,Trillium pusillum var. virginianum,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.1133320,VASCULAR PLANTS,G4T3,S2,None,None,36,Y
+Southern Bladderwort,Utricularia juncea,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.139431,VASCULAR PLANTS,G5,S1,None,None,11,N
+Dwarf bladderwort,Utricularia olivacea,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.150620,VASCULAR PLANTS,G4,SH,None,None,1,Y
+Purple Bladderwort,Utricularia purpurea,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.141236,VASCULAR PLANTS,G5,S2,None,None,15,Y
+Fibrous Bladderwort,Utricularia striata,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.861153,VASCULAR PLANTS,G4G5,S1,None,None,4,Y
+Creeping Blueberry,Vaccinium crassifolium,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.129705,VASCULAR PLANTS,G4G5,S1,None,None,5,Y
+Large Cranberry,Vaccinium macrocarpon,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.144597,VASCULAR PLANTS,G5,S2,None,None,17,Y
+Rough vervain,Verbena scabra,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.128773,VASCULAR PLANTS,G5,S1,None,None,13,Y
+American Wisteria,Wisteria frutescens var. frutescens,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.1194650,VASCULAR PLANTS,G5TNR,S1,None,None,7,Y
+Carolina yellow-eyed grass,Xyris caroliniana,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.147461,VASCULAR PLANTS,G4G5,S1,None,None,6,Y
+Fringed yellow-eyed grass,Xyris fimbriata,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.159348,VASCULAR PLANTS,G5,S1,None,None,6,Y
+Iris-leaf yellow-eyed grass,Xyris iridifolia,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.146424,VASCULAR PLANTS,G4G5T4T5,S1,None,None,5,Y
+Tall yellow-eyed grass,Xyris platylepis,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.148910,VASCULAR PLANTS,G5,S2,None,None,15,Y
+Dusty Zenobia,Zenobia pulverulenta,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.129185,VASCULAR PLANTS,G4?,S1,None,None,4,N
+Large Death-camas,Zigadenus glaberrimus,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.140905,VASCULAR PLANTS,G5,S1,None,None,9,Y
+Viperina,Zornia bracteata,https://explorer.natureserve.org/servlet/NatureServe?searchSpeciesUid=ELEMENT_GLOBAL.2.141902,VASCULAR PLANTS,G5?,S1,None,None,5,Y
