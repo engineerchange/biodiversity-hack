@@ -11,7 +11,7 @@ import pandas as pd
 for dim in ("rows", "columns"): pd.set_option(f"display.max_{dim}", None)
 
 
-def main(areas, filepath, out):
+def main(areas: dict, filepath: Union[str, Path], out: Union[str, Path]) -> None:
     inaturalist_data = pd.read_csv(filepath, low_memory=False, encoding="utf-8")
     print(df := get_density(inaturalist_data, areas, put_csv=True, filepath=out), df.columns, df.shape, sep="\n")
 
@@ -35,14 +35,25 @@ def get_density(frame: pd.DataFrame, areas: dict, put_csv: bool = False,
     return base_data
 
 
-def _format_colnames(colnames: list) -> list:
-    return [c.replace(" ", "_") for c in colnames]
+def _format_colnames(colnames: list) -> list: return [c.replace(" ", "_") for c in colnames]
 
 
 if __name__ == '__main__':
-    AREAS = {"Norfolk"      : 96.4, "Newport News": 119.6, "Chesapeake": 351, "Franklin": 8.36, "Hampton": 136.3,
-             "Poquoson"     : 78.46, "Suffolk": 429, "Virginia Beach": 497, "Williamsburg": 9.1, "Gloucester": 7.182,
-             "Isle of Wight": 363, "Southampton": 602, "Surry": 0.826562, "Smithfield": 10.65, "York": 215}
+    AREAS = {"Chesapeake"    : 351,
+             "Franklin"      : 8.36,
+             "Gloucester"    : 7.182,
+             "Hampton"       : 136.3,
+             "Isle of Wight" : 363,
+             "Newport News"  : 119.6,
+             "Norfolk"       : 96.4,
+             "Poquoson"      : 78.46,
+             "Smithfield"    : 10.65,
+             "Southampton"   : 602,
+             "Suffolk"       : 429,
+             "Surry"         : 0.826562,
+             "Virginia Beach": 497,
+             "Williamsburg"  : 9.1,
+             "York"          : 215}
     BASE: str = r"/Volumes/GoogleDrive/My Drive/hampton_rds_datathon/inaturalist/observations-259859.csv.zip (Unzipped Files)"
     FILEPATH, OUT = Path(BASE, r"observations-259859.csv"), Path(BASE, r"observations-259859_DENSITY.csv")
     main(AREAS, FILEPATH, OUT)
