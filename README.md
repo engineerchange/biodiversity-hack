@@ -33,7 +33,7 @@ We used data from the [FeederWatch raw dataset](https://feederwatch.org/explore/
 ### Analysis
 
 - Bird's Eye Stats
-> [hamptonroads_stats.R](analysis/hamptonroads_stats.R) - calculate misc statistics for presentation on land coverage.
+> [hamptonroads_stats.R](analysis/hamptonroads_stats.R) - calculate misc statistics for presentation about land coverage.
 
 - iNaturalist density by city
 > (Data not used) Look at density of birds by city/county with two scripts: [inaturalist_data_density.py](analysis/inaturalist_data_density.py) and [inaturalist_data.ipynb](analysis/inaturalist_data.ipynb).
