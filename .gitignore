@@ -137,3 +137,6 @@ Desktop.ini
 *.Rproj
 .RData
 data/
+
+# JetBrains
+.idea
