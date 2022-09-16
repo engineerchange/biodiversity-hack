@@ -17,4 +17,4 @@ We used data from the [FeederWatch raw dataset](https://feederwatch.org/explore/
 ## Contact
 Feel free to contact [Richard Latham](mailto:richardelatham@gmail.com) for further information.
 
-This was a team effort! The team consisted of: Marti McElreath (web application developer), Raymond Hear (data cleaning and presentation development), Lakshmi Narayana (data cleaning and presentation), Richard Latham (data cleaning and presentation development).
+This was a team effort! The team consisted of: Marti McElreath (web application developer), Raymond Hear (data cleaning and presentation development), Lakshmi Podagatlapalli (data cleaning and presentation), Richard Latham (data cleaning and presentation development).
