@@ -21,7 +21,7 @@ def main():
 
 def get_density(frame: pd.DataFrame, areas: dict, put_csv: bool = False,
                 filepath: Union[str, Path] = None) -> pd.DataFrame:
-    base_data = frame[(iden := ['common_name', 'scientific_name'])].drop_duplicates(ignore_index=True)
+    base_data = frame[(iden := ["common_name", "scientific_name"])].drop_duplicates(ignore_index=True)
     collector = defaultdict(list)
     for city in areas:
         for guess in frame["place_guess"].values:
