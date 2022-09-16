@@ -14,6 +14,33 @@ The following [presentation](assets/presentation.pdf) was given alongside the we
 ## Data
 We used data from the [FeederWatch raw dataset](https://feederwatch.org/explore/raw-dataset-requests/), information on native birds from the [Virginia Society of Ornithology](https://www.virginiabirds.org/offical-state-checklist), and images from [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page).
 
+### Scripts
+
+### Data cleaning 
+
+- [FeederWatch](scripts_cleaning/clean_feederwatch.R)
+> This script reduced the raw dataset of Feederwatch into a state of VA and Hampton Roads dataset. Apache Arrow (parquet) is used to compress output file size. The final `out_data.csv` is used in webapp.
+
+- FIA Data
+> (Data not used) The [pull_fia_data.R](scripts_cleaning/pull_fia_data.R) script pulls data from FIA. It's a workaround given FIA had website issues circa Sept 2022. [main_fia.py](main_fia.py) outputs cleaned data into a form usable for mapping.
+
+- [VA Birds](scripts_cleaning/clean_vabirds.R)
+> This script was to clean the list of VA birds and assign a "native" or "non native" class.
+
+- [VA Conservation](scripts_cleaning/clean_vaconservation.R)
+> (Data not used) This script was to clean the VA Conservation data into 
+
+### Analysis
+
+- Bird's Eye Stats
+> [hamptonroads_stats.R](analysis/hamptonroads_stats.R) - calculate misc statistics for presentation on land coverage.
+
+- iNaturalist density by city
+> (Data not used) Look at density of birds by city/county with two scripts: [inaturalist_data_density.py](analysis/inaturalist_data_density.py) and [inaturalist_data.ipynb](inaturalist_data.ipynb).
+
+- Summarize bird details
+> [summarize_bird_stats.R](analysis/summarize_bird_stats.R) calculates year-over-year trend information and calculates a 'conservation score' reflecting the regional data. [summarize_vabird_dets.R](analysis/summarize_bird_dets.R) pulls image/description from Wikipedia, integrates detail on nativity, and the statistics of each species into one dataframe. Exports as `out_infobox.csv` for webapp.
+
 ## Logo
 We made our beautiful logo using [Stable Diffusion](https://github.com/CompVis/stable-diffusion). Introducing Mr. Mallard.
 
