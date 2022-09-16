@@ -15,9 +15,9 @@ The following [presentation](assets/presentation.pdf) was given alongside the we
 We used data from the [FeederWatch raw dataset](https://feederwatch.org/explore/raw-dataset-requests/), information on native birds from the [Virginia Society of Ornithology](https://www.virginiabirds.org/offical-state-checklist), and images from [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page).
 
 ## Logo
-Our beautiful logo, made using [Stable Diffusion](https://github.com/CompVis/stable-diffusion): Mr. Mallard.
+We made our beautiful logo using [Stable Diffusion](https://github.com/CompVis/stable-diffusion). Introducing Mr. Mallard.
 
-![logo](assets/logo.png)
+<img src="assets/logo.png" width="256" height="256">
 
 ## Contact
 Feel free to contact [Richard Latham](mailto:richardelatham@gmail.com) for further information.
