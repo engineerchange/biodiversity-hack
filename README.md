@@ -8,6 +8,9 @@ We developed a web application using React component [kepler.gl](kepler.gl) to s
 
 ![time gif](assets/demo_time.gif)
 
+## Presentation
+The following [presentation](assets/presentation.pdf) was given alongside the web application demonstration.
+
 ## Data
 We used data from the [FeederWatch raw dataset](https://feederwatch.org/explore/raw-dataset-requests/), information on native birds from the [Virginia Society of Ornithology](https://www.virginiabirds.org/offical-state-checklist), and images from [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page).
 
