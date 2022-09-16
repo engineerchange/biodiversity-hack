@@ -28,7 +28,7 @@ We used data from the [FeederWatch raw dataset](https://feederwatch.org/explore/
 > This script was to clean the list of VA birds and assign a "native" or "non native" class.
 
 - [VA Conservation](scripts_cleaning/clean_vaconservation.R)
-> (Data not used) This script was to clean the VA Conservation data into 
+> (Data not used) This script was to clean the VA Conservation data into "native"/"non native", but data was limited to only species in VA with a noted conservation status.
 
 ### Analysis
 
