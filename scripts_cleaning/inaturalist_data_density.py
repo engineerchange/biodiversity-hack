@@ -38,7 +38,7 @@ def get_density(frame: pd.DataFrame, areas: dict, put_csv: bool = False,
 def _format_colnames(colnames: list) -> list: return [c.replace(" ", "_") for c in colnames]
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     AREAS = {"Chesapeake"    : 351,
              "Franklin"      : 8.36,
              "Gloucester"    : 7.182,
