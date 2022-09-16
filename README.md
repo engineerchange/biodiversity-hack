@@ -14,7 +14,7 @@ The following [presentation](assets/presentation.pdf) was given alongside the we
 ## Data
 We used data from the [FeederWatch raw dataset](https://feederwatch.org/explore/raw-dataset-requests/), information on native birds from the [Virginia Society of Ornithology](https://www.virginiabirds.org/offical-state-checklist), and images from [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page).
 
-### Scripts
+## Scripts
 
 ### Data cleaning 
 
