@@ -4,7 +4,7 @@ This repo contains some data cleaning scripts, data dumps, and assets for the fi
 ![website graphic](assets/website.png)
 
 ## Website
-We developed a web application using React component [kepler.gl](kepler.gl) to show trends in bird distribution throughout the Hampton Roads region.
+We developed a web application using React component [kepler.gl](kepler.gl) to show trends in bird distribution throughout the Hampton Roads region. There is a separate repo for the [web app](https://github.com/martimce/hampton-roads-hackathon).
 
 ![time gif](assets/demo_time.gif)
 
